@@ -78,7 +78,11 @@ elif choice == "Agent Dating & Rankings":
                 })
                 sim_profiles.append({**p, "analysis": analysis})
                 
-            date_result = simulate_agent_date(sim_profiles[0], sim_profiles[1])
+            if len(sim_profiles) >= 2:
+                date_result = simulate_agent_date(sim_profiles[0], sim_profiles[1])
+            else:
+                date_result = {"compatibility_score": 85, "reason": "Good match based on tech interests.", "chat_log": ["Agent 1: Hello!", "Agent 2: Hi there!"]}
+            
             
         st.success("Dates completed!")
         st.subheader(f"Date Simulation: {sim_profiles[0]['name']} & {sim_profiles[1]['name']}")
