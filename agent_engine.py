@@ -2,6 +2,7 @@ import os
 import json
 # pyrefly: ignore[missing-import]
 from openai import OpenAI
+client = OpenAI(api_key="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")
 # pyrefly: ignore[missing-import]
 from dotenv import load_dotenv
 
