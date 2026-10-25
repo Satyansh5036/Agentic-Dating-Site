@@ -2,7 +2,7 @@ import os
 import json
 # pyrefly: ignore[missing-import]
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 # pyrefly: ignore[missing-import]
 
 def analyze_profile(name, title, linkedin_bio, instagram_bio):
