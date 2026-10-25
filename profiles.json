@@ -1,1 +1,177 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Guillermo Rauch",
+        "title": "CEO at Vercel",
+        "linkedin": "https://www.linkedin.com/in/rauchg",
+        "instagram": "https://www.instagram.com/rauchg"
+    },
+    {
+        "id": 2,
+        "name": "Pieter Levels",
+        "title": "Indie Hacker & Founder",
+        "linkedin": "https://www.linkedin.com/in/pieterlevels",
+        "instagram": "https://www.instagram.com/levelsio"
+    },
+    {
+        "id": 3,
+        "name": "Sahil Lavingia",
+        "title": "Founder at Gumroad",
+        "linkedin": "https://www.linkedin.com/in/sahillavingia",
+        "instagram": "https://www.instagram.com/shl"
+    },
+    {
+        "id": 4,
+        "name": "Dharmesh Shah",
+        "title": "Founder at HubSpot",
+        "linkedin": "https://www.linkedin.com/in/dharmesh",
+        "instagram": "https://www.instagram.com/dharmesh"
+    },
+    {
+        "id": 5,
+        "name": "Alexis Ohanian",
+        "title": "Founder at Seven Seven Six",
+        "linkedin": "https://www.linkedin.com/in/alexisohanian",
+        "instagram": "https://www.instagram.com/alexisohanian"
+    },
+    {
+        "id": 6,
+        "name": "Nat Friedman",
+        "title": "Investor & Technologist",
+        "linkedin": "https://www.linkedin.com/in/natfriedman",
+        "instagram": "https://www.instagram.com/natfriedman"
+    },
+    {
+        "id": 7,
+        "name": "Andrej Karpathy",
+        "title": "AI Researcher & Educator",
+        "linkedin": "https://www.linkedin.com/in/andrej-karpathy",
+        "instagram": "https://www.instagram.com/karpathy"
+    },
+    {
+        "id": 8,
+        "name": "Lex Fridman",
+        "title": "Podcaster & Researcher",
+        "linkedin": "https://www.linkedin.com/in/lex-fridman",
+        "instagram": "https://www.instagram.com/lexfridman"
+    },
+    {
+        "id": 9,
+        "name": "Brian Chesky",
+        "title": "CEO at Airbnb",
+        "linkedin": "https://www.linkedin.com/in/brianchesky",
+        "instagram": "https://www.instagram.com/bchesky"
+    },
+    {
+        "id": 10,
+        "name": "Marc Benioff",
+        "title": "Chair & CEO at Salesforce",
+        "linkedin": "https://www.linkedin.com/in/marcbenioff",
+        "instagram": "https://www.instagram.com/marcbenioff"
+    },
+    {
+        "id": 11,
+        "name": "Sam Altman",
+        "title": "CEO at OpenAI",
+        "linkedin": "https://www.linkedin.com/in/samaltman",
+        "instagram": "https://www.instagram.com/sama"
+    },
+    {
+        "id": 12,
+        "name": "Melanie Perkins",
+        "title": "CEO at Canva",
+        "linkedin": "https://www.linkedin.com/in/melanieperkins",
+        "instagram": "https://www.instagram.com/melaniecanva"
+    },
+    {
+        "id": 13,
+        "name": "Stewart Butterfield",
+        "title": "Tech Founder",
+        "linkedin": "https://www.linkedin.com/in/stewartbutterfield",
+        "instagram": "https://www.instagram.com/stewartbutterfield"
+    },
+    {
+        "id": 14,
+        "name": "Whitney Wolfe Herd",
+        "title": "Founder at Bumble",
+        "linkedin": "https://www.linkedin.com/in/whitneywolfeherd",
+        "instagram": "https://www.instagram.com/whitney"
+    },
+    {
+        "id": 15,
+        "name": "Patrick Collison",
+        "title": "CEO at Stripe",
+        "linkedin": "https://www.linkedin.com/in/patrick-collison",
+        "instagram": "https://www.instagram.com/patrickcollison"
+    },
+    {
+        "id": 16,
+        "name": "John Collison",
+        "title": "President at Stripe",
+        "linkedin": "https://www.linkedin.com/in/john-collison",
+        "instagram": "https://www.instagram.com/johncollison"
+    },
+    {
+        "id": 17,
+        "name": "Shreyas Doshi",
+        "title": "Product Advisor",
+        "linkedin": "https://www.linkedin.com/in/shreyasdoshi",
+        "instagram": "https://www.instagram.com/shreyasdoshi"
+    },
+    {
+        "id": 18,
+        "name": "Lenny Rachitsky",
+        "title": "Product Creator",
+        "linkedin": "https://www.linkedin.com/in/lennyrachitsky",
+        "instagram": "https://www.instagram.com/lennyrachitsky"
+    },
+    {
+        "id": 19,
+        "name": "Logan Kilpatrick",
+        "title": "Developer Relations Leader",
+        "linkedin": "https://www.linkedin.com/in/logankilpatrick",
+        "instagram": "https://www.instagram.com/logankilpatrick"
+    },
+    {
+        "id": 20,
+        "name": "Kunal Shah",
+        "title": "Founder at CRED",
+        "linkedin": "https://www.linkedin.com/in/kunalshah1",
+        "instagram": "https://www.instagram.com/kunalshah"
+    },
+    {
+        "id": 21,
+        "name": "Naval Ravikant",
+        "title": "Angel Investor",
+        "linkedin": "https://www.linkedin.com/in/navalr",
+        "instagram": "https://www.instagram.com/naval"
+    },
+    {
+        "id": 22,
+        "name": "Garry Tan",
+        "title": "CEO at Y Combinator",
+        "linkedin": "https://www.linkedin.com/in/garrytan",
+        "instagram": "https://www.instagram.com/garrytan"
+    },
+    {
+        "id": 23,
+        "name": "Immad Akhund",
+        "title": "CEO at Mercury",
+        "linkedin": "https://www.linkedin.com/in/immadakhund",
+        "instagram": "https://www.instagram.com/immadakhund"
+    },
+    {
+        "id": 24,
+        "name": "Dylan Field",
+        "title": "CEO at Figma",
+        "linkedin": "https://www.linkedin.com/in/dylanfield",
+        "instagram": "https://www.instagram.com/dylanfield"
+    },
+    {
+        "id": 25,
+        "name": "Kevin Systrom",
+        "title": "Co-founder of Instagram",
+        "linkedin": "https://www.linkedin.com/in/kevinsystrom",
+        "instagram": "https://www.instagram.com/kevin"
+    }
+]
